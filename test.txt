@@ -1,1 +1,1 @@
-developer:"test1...commit"
+developer:"test1 and test2 are commited"
